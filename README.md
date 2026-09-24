@@ -18,11 +18,8 @@
 <a href="https://twitter.com/laodefardin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="laodefardin" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/laode-muh-zulfardinsyah-b4921516a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="misbahudin99" height="30" width="40" /></a>
 <a href="https://fb.com/laodefardinn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="misbahudin99" height="30" width="40" /></a>
-<a href="https://instagram.com/laode.fardin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mizzcode" height="30" width="40" /></a>
+<a href="https://instagram.com/laode.fardin" target="blank">
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=laodefardin&show_icons=true&locale=en&layout=compact" alt="laodefardin" /></p>
-
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=laodefardin&show_icons=true&locale=en" alt="mizzcode" /></p>
 
