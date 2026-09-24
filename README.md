@@ -21,7 +21,5 @@
 <a href="https://instagram.com/laode.fardin" target="blank">
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=laodefardin&show_icons=true&locale=en" alt="mizzcode" /></p>
-
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=laodefardin&" alt="laodefardin" /></p>
